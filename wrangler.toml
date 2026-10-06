@@ -1,0 +1,7 @@
+name = "dashboard_compta"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "dist"
+
+[[kv_namespaces]]
+binding = "USERS"
+id = "0dbb536884324f6093511db8a6e5bc8d"
