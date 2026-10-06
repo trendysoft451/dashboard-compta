@@ -1,0 +1,7 @@
+name = "suiteexpert-dashboard"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "dist"
+
+[[kv_namespaces]]
+binding = "USERS"
+id = "REMPLACER_PAR_VOTRE_KV_ID"

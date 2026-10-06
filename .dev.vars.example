@@ -1,0 +1,5 @@
+AUTH_SECRET=chaine-aleatoire-longue-pour-signer-les-jetons
+SUITE_BASE_URL=https://isuite.bizgestion.fr/cnx/api
+SUITE_API_KEY=votre-cle-api-suiteexpert
+ADMIN_EMAIL=admin@cabinet.fr
+ADMIN_PASSWORD=motdepasse-initial-admin
